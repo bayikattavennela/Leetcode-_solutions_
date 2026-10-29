@@ -1,0 +1,7 @@
+Solution(object):
+    def threeSum(self, nums):
+        ""class"
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+        
